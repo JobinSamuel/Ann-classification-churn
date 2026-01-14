@@ -44,9 +44,11 @@ The trained model is deployed using a simple **Streamlit web application** for r
 
 ## Output
 
-* The app returns a **churn probability**
-* '>0.5' - customer likely to churn
-* '<= 0.5' - customer not likely to churn
+The app returns a churn probability
+
+> 0.5 → customer likely to churn
+
+<= 0.5 → customer not likely to churn
 
 
 
