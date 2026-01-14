@@ -5,7 +5,7 @@ The trained model is deployed using a simple **Streamlit web application** for r
 
 ---
 
-## What We Did in This Project ✅
+## What I Did in This Project 
 
 * Loaded and explored the **Churn_Modelling.csv** dataset
 * Dropped irrelevant columns (RowNumber, CustomerId, Surname)
@@ -45,9 +45,8 @@ The trained model is deployed using a simple **Streamlit web application** for r
 ## Output
 
 * The app returns a **churn probability**
-* > 0.5 - customer likely to churn
+*  > 0.5 - customer likely to churn
 * <= 0.5 - customer not likely to churn
 
----
 
 
